@@ -12,14 +12,14 @@ A super-responsive, easy to use BLE gaming controller for any Bluetooth compatib
 Simply hold the START and SELECT buttons for 3 seconds while powering on. Connect to "The Mashifier". If at any point there's an issue with pairing, simply start over and unit will wipe the pairing history.
 
 #### Crazy Responsive
-The Mashifier is designed to do one thing very well: send commands to a gaming system/emulator. It also changes the LED colour based on battery level (but you'll be to busy playing to notice).
+The Mashifier is designed to do one thing very well: send commands to a gaming system/emulator. It also changes the LED colour based on battery level (but you'll be too busy playing to notice).
 
 #### Combo Friendly
 With support for up to 6 simultaneous button presses, The Mashifier can send complex commands for combo games like Street Fighter and Mortal Combat.
 
 #### Awesome Battery Life
-Of course, while this depends on how large of a battery you provide, The Mashifier is as minimal and effecient as possible to minimize charge time.
+Of course, while this depends on how large of a battery you provide, The Mashifier is as minimal and efficient as possible to minimize charge time.
 
 ## Usage
 
-This is not a beginner project, and while the sketch is adaptable to almost any Arduino-based BLE controller, you will need to ensure it has enough pins/memory to support at least 10 buttons (4 x joystick, 4 x main buttons, 2 x start & select). Decisions will need to be made on how to handle battery charging, etc. 3D print designs are on [Tinkercad](https://www.tinkercad.com/things/hxekYVrqBbI).
+This is not a beginner project, and while the sketch is adaptable to almost any Arduino-based BLE controller, you will need to ensure it has enough pins/memory to support at least 10 buttons (4 x joystick, 4 x main buttons, 1 x Start, 1 x Select). Decisions will need to be made on how to handle battery charging, etc. 3D print designs are on [Tinkercad](https://www.tinkercad.com/things/hxekYVrqBbI).
