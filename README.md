@@ -2,9 +2,9 @@
 
 Some time ago a friend gave me an old [Adafruit Feather 32u4 Bluefruit LE](https://www.adafruit.com/product/2829) controller. Given how outdated-but-still-useful the unit was, I decided to put it to good use and learn how to make a gaming controller for that old collection of ROMs I had kicking around. The result is this:
 
-<img alt="The Mashifier" src="/img/the-mashifier.jpg" width=400><br/>
+<img alt="The Mashifier" src="/img/the-mashifier-a.jpg" width=400><br/>
 
-A super-responsive, easy to use BLE gaming controller for any Bluetooth compatible system. It's super-fun! :)
+A super-responsive, easy to use BLE gaming controller for any Bluetooth compatible system. It's waaaay too much fun! :wink: (More photos in the `img` directory).
 
 ## Key Features
 
